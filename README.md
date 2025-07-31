@@ -6,7 +6,7 @@ An Arduino-based smart robotic car that autonomously detects obstacles using an 
 
 ## 🎥 Demo Video
 
-👉 *[Attach your demo video link here]*
+👉 *[[Demo video link here](https://youtu.be/FEy6YuiIQD8)]*
 
 ---
 
